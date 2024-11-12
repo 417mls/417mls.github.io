@@ -139,8 +139,8 @@ https://baijiahao.baidu.com/s?id=1684251219977233006&wfr=spider&for=pc
 1118-1583-7979-9484-4887-4319
 
 
-# Appleid美区账号ljding@126.com
-n&w
+# Appleid美区账号
+
 
 
 # catalina文件共享功能无法开启解决方案
@@ -403,7 +403,7 @@ INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
 
 
 # GITEE
-MLS1997Hostsking!
+
 
 # GitHubfork233boy脚本安装命令fork仓库
 
@@ -1206,21 +1206,7 @@ https://blog.csdn.net/2401_86402635/article/details/141906177
 
 
 # 入职信息填写
-杨志清 国信证券 15915374470
-林小玲 银泰 15986737396
 
-父亲 李永来18418157181
-母亲 朱明珍18418157181
-李建军18993861536
-
-紧急联系人 李建军18993861536
-
-户口地址：福田
-
-油箱：ljding@126.com
-
-住址：深圳市坪山区龙田街道竹坑社区奥园翡翠东湾1栋602
-广东省深圳市坪山区龙田街道竹坑社区金牛东路73号奥园翡翠东湾一期1栋一单元A602
 
 
 # 全部还款日-11月
@@ -1283,9 +1269,7 @@ https://www.sohu.com/a/638194132_242207
 # 另外再推荐一些大家常用的做笔记的方案
 Git+typora: typora目前收费https://www.cnblogs.com/mengxiaoleng/p/13890680.htmlobsidian: 个人免费，支持ios，android，windows，Mac，Linuxhttps://obsidian.md/语雀：edu邮箱认证可以获得旗舰版空间或个人会员权益，标准版免费https://www.yuque.com/
 自己搭建vite press或者vue press
-
 飞书
-
 wiki.js
 
 # 启动ParallelsDesktop之后macOS没声音的问题
@@ -1375,9 +1359,7 @@ https://zhuanlan.zhihu.com/p/92791987
 
 
 # 备份盘记录
-4gb-123云盘
-8gb-天翼云盘
-32gb-腾讯微云
+
 
 
 # 备用网盘
@@ -1454,15 +1436,13 @@ macOS 配置
 
 # 宝塔重置密码
 
- cd /www/server/panel && btpython tools.py panel 1997Hostsking!
+ cd /www/server/panel && btpython tools.py panel 新的密码
 
 
 # 宝塔面板登录信息
 
- 【云服务器】请在安全组放行 36760 端口
- 外网面板地址: https://43.153.214.211:36760/4da8ff5c
- 内网面板地址: https://10.3.8.5:36760/4da8ff5c
- username: root
+
+ username: 
  password: 
 
  浏览器访问以下链接，添加宝塔客服
@@ -1479,8 +1459,7 @@ macOS 配置
 
 
 # 宽带账号
-07551205001094@163.gd
-密码：JEAVDBCF
+
 
 # 局域网创建Mac和Windows11共享文件夹
 
@@ -1584,7 +1563,7 @@ bearblog博客
 
 
 # 泰然iPhone-work-resilio-sync密钥
-A4MCPVQJIFG7DF7QVGMCT2B5VITV7F3UX
+
 
 # 测dns泄漏网站
 https://ipleak.net
@@ -1593,7 +1572,7 @@ https://ipleak.net
 # 淋浴软管尺寸 内6mm外8mm
 
 
-# 燃：8331078744｜电：0949050021059605
+# 燃：｜电：
 
 
 # 电信路由器登录网址和账号
@@ -1630,8 +1609,7 @@ cat /etc/resolv.conf
 
 # 简书贝交易网站
 jianshubei.com
-账户：maluanshan
-18938663894
+账户：
 
 # 翻墙配置终极版本（debian-vless）
 https://233boy.com/sing-box/sing-box-server/
@@ -1639,69 +1617,16 @@ https://233boy.com/sing-box/sing-box-script/
 
 Debian 12系统
 
--------------- VLESS-REALITY-4170.json -------------
-协议 (protocol)         = vless
-地址 (address)          = 43.153.214.211
-端口 (port)             = 4170
-用户ID (id)             = 0814e38c-08cf-4cde-94f4-4ee82bc5f80f
-流控 (flow)             = xtls-rprx-vision
-传输协议 (network)      = tcp
-传输层安全 (TLS)        = reality
-SNI (serverName)        = aws.amazon.com
-指纹 (Fingerprint)      = chrome
-公钥 (Public key)       = -ju20KkdfCzrABO0lk9ZtZCyc7t_UQHDTXLnZrw7BVs
-------------- 链接 (URL) -------------
-vless://0814e38c-08cf-4cde-94f4-4ee82bc5f80f@43.153.214.211:4170?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=-ju20KkdfCzrABO0lk9ZtZCyc7t_UQHDTXLnZrw7BVs&fp=chrome#233boy-reality-43.153.214.211
-------------- END -------------
+
 
 
 # 背调
-深圳银泰保理有限公司
-林小玲
-工作岗 运营专员
 
-工作年限：2018 05-2020 12
-
-负责：万科保理业务审核和银行渠道的对接工作
-
-职责：一、保理融资业务（核心企业万科的应收帐款转让）
-1、负责对客户的前期评估、保理融资资料的审核登记以及后期客户关系的维护，定期维护融资相关报表及台账的更新；
-2、负责与客户保理融资合同的签订和放款等整个流程的跟进与反馈；
-3、对客户的相关保理融基础资料、合同文件进行整理与归档。
-二、银行对接（主要授信银行：北京银行、招商银行、邮储银行）
-1、负责各银行的沟通协调,为银行授信审核准备相关材料,保持与授信银行的日常业务对接与渠道维护；
-2、保持与银行等各金融机构的良好协调关系，及时做好银行信贷政策的信息反馈工作；
-3、配合银行完成货后管理，拓宽适合公司的不同融资模式、融资方案和渠道。
-
-地点福田英龙大厦16楼
-
-国信证券深圳振华分公司
-
-地点：福田区华丽装饰大厦8楼
-
-杨志清
-工作岗位：运营专员
-
-年限：2015 05-2017 08
-
-负责：公司公众号和网站的运营维护工作
-
-职责：1、负责公司新媒体平台的运营与推广，并对相关运营数据进行统计和分析，提高平台的关注度；
-2、通过互联网新媒体平台策划相关线上和线下活动，以增加平台的粉丝数和 APP 下载量；
-3、负责公司网站后台的日常维护和管理，确保网站的运行稳定和内容更新的及时性；
-4、录制与剪辑每日市场点评视频，并进行数据分析了解用户需求，改进视频的质量；
-5、通过公众号解答客户的相关问题，收集客户的建议，提高客户服务水平；
-6、配合投资顾问开展相关的报告会，让投资者了解更多的投资理财知识。
 
 
 # 腾讯云云服务器密钥
 为降低密钥泄漏的风险，自2023年11月30日起，新建的密钥只在创建时提供SecretKey，后续不可再进行查询，请保存好SecretKey。
-Appid
-1330764374
-SecretId
-AKIDqVyL82EMPSbjiVBw35znX9e4SkvxpeTF
-SecretKey
-jLrYGuhPEC50ngSBmMtGh8TexGXgv7FI
+
 
 
 # 腾讯云服务器在重启之后出现连接不上的问题
@@ -1730,39 +1655,7 @@ mac还有一种方式访问网络文件夹就是 command+k 然后输入局域网
 
 
 # 设备基本信息
-设备类型:	智能网关 (单频4+1)
-生产厂家:	SCTY
-设备型号:	TEWA-708G
-设备标识号:	48A73C-4184448A73C4F6BE0
-硬件版本:	V1.0
-软件版本:	Tianyi_V1.0.1
-PON信息
-线路协议:	GPON
-连接状态:	成功-已注册已认证
-连接时间:	11111
-发送光功率:	2.2
-接收光功率:	-15.4
-网关注册信息
-逻辑ID:	SZ1000011092837
-光路（OLT）认证:	认证成功
-管理（ITMS）注册:	注册成功
-业务信息
-业务类型	状态	IP协议	连接方式	可用端口	连接名称
-上网业务	可用	IPV4	路由	有线:千兆口,百兆口2,百兆口3,无线:ChinaNet-2LWE,	3_INTERNET_R_VID_41
-iTV	可用	IPV4	桥接	iTV,	1_Other_B_VID_45
-语音	可用	IPV4	路由	电话	2_TR069_VOICE_R_VID_46
-管理	可用	IPV4	路由		2_TR069_VOICE_R_VID_46
-无线信息
-无线网络名称	ChinaNet-2LWE
-无线网络密钥	egfw73zg
-无线状态	开启
-安全模式	开启
-无线配置向导	无线配置向导
-用户侧以太网口信息
-千兆口	未连接设备	
-iTV	未连接设备	
-百兆口2	未连接设备	
-百兆口3	未连接设备	
+	
 
 
 # 路由器相关知识等一系列问题
