@@ -123,7 +123,7 @@ localhost = 127.0.0.1
 
 
 # 服务器52556节点
-vless://cf29a1be-622e-4d03-96f2-72a378d4fc48@43.153.214.211:52556?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=BqHEsNSLy9XTR2thd5hFbqztzqhWXRwe9-FMjcqAqls&fp=chrome#233boy-reality-43.153.214.211
+
 
 
 # Acer无线蓝牙鼠标重新配对方法：
