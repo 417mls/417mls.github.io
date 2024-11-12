@@ -1128,11 +1128,11 @@ tplogin.cn是新版tplink路由器的设置网址；大家在设置的时候，�
 
 # 为降低密钥泄漏的风险自2023年11月30日起新建的密钥只在创建时提供SecretKey后续不可再进行查询请保存好SecretKey
 Appid
-1330764374
+
 SecretId
-AKIDqVyL82EMPSbjiVBw35znX9e4SkvxpeTF
+
 SecretKey
-jLrYGuhPEC50ngSBmMtGh8TexGXgv7FI
+
 
 # 体育锻炼
 
